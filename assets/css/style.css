@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  background: rgba(217, 217, 217, 0.32);
+}
+.navbar-nav {
+    margin-right: 50px;
+  padding-right: 100px;
+}
+.navbar-nav .nav-link {
+    color: #000;
+}
+.navbar-nav .nav-item {
+  font-style: normal;
+  font-weight: 400;
+  padding: 0px 10px;
+  font-size: 19.5175px;
+  line-height: 24px;
+  color: #000;
+}
